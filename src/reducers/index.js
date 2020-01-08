@@ -1,5 +1,4 @@
 import { ADD_FEATURE, REMOVE_FEATURE } from '../actions';
-import { statements } from '@babel/template';
 
 const initialState = {
     additionalPrice: 0,
